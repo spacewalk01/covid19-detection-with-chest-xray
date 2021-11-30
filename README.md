@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 
 ### Dataset
 
-Dataset from COVID-19 Radiography can be downloaded from Kaggle. 
+Dataset from COVID-19 Radiography can be downloaded from [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). 
 - Download it and put it in the project folder.
 
 - Viral pneumonia is an infection of your lungs caused by a virus. The most common cause is the flu, but you can also get viral pneumonia from the common cold and other viruses.
