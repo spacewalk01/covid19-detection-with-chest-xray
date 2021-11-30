@@ -9,19 +9,11 @@ $ git clone https://github.com/spacewalk01/detecting-covid19-with-chest-XRay
 $ cd detecting-covid19-with-chest-XRay
 $ pip install -r requirements.txt
 ```
-## Results
-
-Evaluation metrics:
-![alt text](auc.png)
-
-Predicted results:
-![alt text](covid_prediction.png)
 
 ## Dataset
 
 COVID-19 Radiography Dataset can be downloaded from [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). Chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. This COVID-19 dataset contains 3616 COVID-19 positive cases along with 10,192 Normal, 6012 Lung Opacity (Non-COVID lung infection) and 1345 Viral Pneumonia images. 
 
-- Normal - people who have no lung infection or disease
 - Viral pneumonia indicates an infection of your lungs caused by a virus. The most common cause is the flu, but you can also get viral pneumonia from the common cold and other viruses.
 - Lung Opacity
 
@@ -29,7 +21,15 @@ COVID-19 Radiography Dataset can be downloaded from [Kaggle](https://www.kaggle.
 | :---: | :---: | 
 | COVID-19 |  actual positive cases of comfirmed COVID-19 patients |
 | Normal | people who have no lung infection or disease |
+| Viral Pneumonia | Viral pneumonia indicates an infection of your lungs caused by a virus. The most common cause is the flu, but you can also get viral pneumonia from the common cold and other viruses.|
+| Lung Opacity | -- |
+## Results
 
+Evaluation metrics:
+![alt text](auc.png)
+
+Predicted results:
+![alt text](covid_prediction.png)
 
 
 
