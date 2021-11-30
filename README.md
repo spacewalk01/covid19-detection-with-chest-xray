@@ -9,7 +9,7 @@ $ git clone https://github.com/spacewalk01/detecting-covid19-with-chest-XRay
 $ cd detecting-covid19-with-chest-XRay
 $ pip install -r requirements.txt
 ```
-### Results
+## Results
 
 Evaluation metrics:
 ![alt text](auc.png)
