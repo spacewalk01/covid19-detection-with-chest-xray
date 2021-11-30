@@ -3,7 +3,7 @@
 In this repo, I attempted to predict COVID-19 disease from radiology images. In the experiment, ResNet18 was used and trained on the real chest X-Ray images of COVID-19 patients. The trained model was evaluated on 400 actual test images and achieved a sensitivity rate of 98% with 95% overall accuracy. The model classifies Chest X-Ray images in one of four classes: Normal, Viral, Pneumonio and COVID-19. 
 
 
-### Installation
+## Installation
 ```bash
 $ git clone https://github.com/spacewalk01/detecting-covid19-with-chest-XRay
 $ cd detecting-covid19-with-chest-XRay
