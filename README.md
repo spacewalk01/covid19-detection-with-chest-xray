@@ -11,11 +11,11 @@ $ pip install -r requirements.txt
 ```
 ### Results
 
-Predicted results:
-![alt text](covid_prediction.png)
-
 Evaluation metrics:
 ![alt text](auc.png)
+
+Predicted results:
+![alt text](covid_prediction.png)
 
 ### Dataset
 
