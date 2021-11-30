@@ -19,10 +19,11 @@ COVID-19 Radiography Dataset can be downloaded from [Kaggle](https://www.kaggle.
 
 | Class | Meaning |
 | :---: | :---: | 
-| COVID-19 |  actual positive cases of comfirmed COVID-19 patients |
-| Normal | people who have no lung infection or disease |
-| Viral Pneumonia | Viral pneumonia indicates an infection of your lungs caused by a virus. The most common cause is the flu, but you can also get viral pneumonia from the common cold and other viruses.|
-| Lung Opacity | -- |
+| COVID-19 |  Confirmed positive cases of COVID-19 patients |
+| Normal | Healthy people who have no lung infection or disease |
+| Pneumonia is a serious infection in the lungs. It can result from viruses, bacteria, or fungi. Most often, it occurs as a result of a viral illness, such as influenza (flu), measles, or respiratory syncytial virus. |
+| Lung Opacity | Lung opacity means pneumonia caused by any previously
+known pathogen. |
 ## Results
 
 Evaluation metrics:
