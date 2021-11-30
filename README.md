@@ -4,11 +4,11 @@ In this repo, I attempted to predict COVID-19 disease from radiology images. In 
 
 
 # Installation
-
+```bash
 $ git clone https://github.com/spacewalk01/detecting-covid19-with-chest-XRay
 $ cd detecting-covid19-with-chest-XRay
 $ pip install -r requirements.txt
-
+```
 ## Results
 
 ![alt text](covid_prediction.png)
