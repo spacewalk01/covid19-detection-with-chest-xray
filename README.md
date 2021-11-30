@@ -13,6 +13,8 @@ $ pip install -r requirements.txt
 
 ![alt text](covid_prediction.png)
 
+![alt text](auc.png)
+
 ### Dataset
 
 - Viral pneumonia is an infection of your lungs caused by a virus. The most common cause is the flu, but you can also get viral pneumonia from the common cold and other viruses.
