@@ -15,3 +15,5 @@ In this repo, I attempted to predict COVID-19 disease from radiology images. In 
 
 Dataset from COVID-19 Radiography can be downloaded from Kaggle. 
 - Download it and put it in the project folder.
+
+- Viral pneumonia is an infection of your lungs caused by a virus. The most common cause is the flu, but you can also get viral pneumonia from the common cold and other viruses.
