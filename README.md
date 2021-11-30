@@ -1,4 +1,4 @@
-![alt text](covid_prediction.png)
+![alt text](figs/covid_prediction.png)
 
 # Detecting COVID-19 with Chest X-Ray
 
@@ -24,4 +24,4 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 | Lung Opacity | Lung opacity means pneumonia caused by any previously known pathogen. |
 ## Results
 
-![alt text](auc.png)
+![alt text](figs/auc.png)
