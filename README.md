@@ -22,6 +22,11 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 | Normal | Healthy people who have no lung infection or disease |
 | Viral Pneumonia | Pneumonia is a serious infection in the lungs. It can result from viruses, bacteria, or fungi. Most often, it occurs as a result of a viral illness, such as influenza (flu), measles, or respiratory syncytial virus. |
 | Lung Opacity | Lung opacity means pneumonia caused by any previously known pathogen. |
+
 ## Results
 
 ![alt text](figs/auc.png)
+
+## Reference
+Coursera, [DeepCOVID](https://github.com/shervinmin/DeepCovid), Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
+Learning
