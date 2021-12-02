@@ -2,7 +2,7 @@
 
 # Detecting COVID-19 with Chest X-Ray
 
-In this repo, I tried to build a classifier that identifies COVID-19 infection in radiology images. In the experiment, ResNet18 was used and trained on the real chest X-Ray images of COVID-19 and healthy patients. The model classifies Chest X-Ray images into one of four classes: Normal, Viral, Pneumonio and COVID-19. The trained model was evaluated on 400 actual test subjects and achieved a sensitivity rate of 98% with 95% overall accuracy.
+In this repo, I tried to apply deep learning to medical image processing and build a model that identifies COVID-19 infection in radiology images. Residual Network was used and trained on real chest X-Ray images of COVID-19 and healthy patients. The model classifies chest X-Ray images into one of four classes: Normal, Viral, Pneumonio and COVID-19. The trained model was evaluated on 400 actual test subjects and achieved 95% overall accuracy.
 
 
 ## Installation
