@@ -1,4 +1,4 @@
-![alt text](figs/covid_prediction.png)
+![alt text](figs/xray-header-image.png)
 
 # Detecting COVID-19 with Chest X-Ray
 
