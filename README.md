@@ -28,7 +28,7 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 In this figure, the images are generated from the original training images. Image augmentation is a technique of altering the existing data to create some more data for the model training process. 
 ![alt text](figs/augment.png)
 
-
+In this figure, the images are generated from the original training images. Image augmentation is a technique of altering the existing data to create some more data for the model training process. 
 ![alt text](figs/cm.png)
 
 ## Reference
