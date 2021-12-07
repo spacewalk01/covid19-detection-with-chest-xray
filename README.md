@@ -33,7 +33,8 @@ On 400 random test images (100 positive for COVID-19), the overall accuracy of t
 ![alt text](figs/cm.png)
 
 #### Visualization
-....
+![alt text](figs/weight.png)
+
 ## Reference
 Coursera, [DeepCOVID](https://github.com/shervinmin/DeepCovid), Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
 Learning
