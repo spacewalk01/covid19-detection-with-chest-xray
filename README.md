@@ -38,4 +38,4 @@ The areas marked with a peak in heatmap indicate the prediction of abnormalities
 
 ## Reference
 Coursera, [DeepCOVID](https://github.com/shervinmin/DeepCovid), Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
-Learning
+Learning, [Automated abnormality classification of chest radiographs](https://www.nature.com/articles/s41746-020-0273-z.pdf)
