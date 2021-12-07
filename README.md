@@ -24,6 +24,9 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 | Lung Opacity | Lung opacity means pneumonia caused by any previously known pathogen. |
 
 ## Results
+![alt text](figs/augment.png)
+
+![alt text](figs/visualization.png)
 
 ![alt text](figs/cm.png)
 
