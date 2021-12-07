@@ -1,4 +1,4 @@
-![alt text](figs/xray-header-image.png)
+![alt text](figs/visualization.png)
 
 # Detecting COVID-19 with Chest X-Ray
 
@@ -26,7 +26,6 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 ## Results
 ![alt text](figs/augment.png)
 
-![alt text](figs/visualization.png)
 
 ![alt text](figs/cm.png)
 
