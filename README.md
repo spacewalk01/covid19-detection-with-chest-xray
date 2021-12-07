@@ -25,7 +25,7 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 
 ## Results
 
-![alt text](figs/auc.png)
+![alt text](figs/cm.png)
 
 ## Reference
 Coursera, [DeepCOVID](https://github.com/shervinmin/DeepCovid), Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
