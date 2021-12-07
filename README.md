@@ -33,7 +33,7 @@ On 400 random test images (100 positive for COVID-19), the overall accuracy of t
 ![alt text](figs/cm.png)
 
 #### Visualization
-Visual explanations through gradient-based localization using [grad-CAM](https://github.com/jacobgil/pytorch-grad-cam). The areas marked with a peak in heatmap indicate the prediction of abnormalities with high probabilities.
+Visual explanations through gradient-based localization using [grad-CAM](https://github.com/jacobgil/pytorch-grad-cam). The areas marked with a peak in heatmap indicate the prediction of infection with high probabilities.
 ![alt text](figs/weight.png)
 
 ## Reference
