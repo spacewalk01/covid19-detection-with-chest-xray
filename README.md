@@ -33,9 +33,9 @@ On 400 random test images (100 positive for COVID-19), the overall accuracy of t
 ![alt text](figs/cm.png)
 
 #### Visualization
-The areas marked with a peak in heatmap indicate the prediction of abnormalities with high probabilities.
+Visual explanations through gradient-based localization using [grad-CAM](https://github.com/jacobgil/pytorch-grad-cam). The areas marked with a peak in heatmap indicate the prediction of abnormalities with high probabilities.
 ![alt text](figs/weight.png)
 
 ## Reference
 Coursera, [DeepCOVID](https://github.com/shervinmin/DeepCovid), Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
-Learning, [Automated abnormality classification of chest radiographs](https://www.nature.com/articles/s41746-020-0273-z.pdf)
+Learning, [Automated abnormality classification of chest radiographs](https://www.nature.com/articles/s41746-020-0273-z.pdf).
