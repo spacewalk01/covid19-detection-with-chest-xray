@@ -29,7 +29,7 @@ In this figure, the images are generated from the original training images using
 ![alt text](figs/augment.png)
 
 #### Evaluation
-On 400 random test images (100 positive for COVID-19), accuracy of the trained was 95% (AUC, 0.92).
+On 400 random test images (100 positive for COVID-19), the overall accuracy of the trained model was 95% (AUC, 0.92).
 ![alt text](figs/cm.png)
 
 #### Visualization
