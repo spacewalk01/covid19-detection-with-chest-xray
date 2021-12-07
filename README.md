@@ -24,13 +24,16 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 | Lung Opacity | Lung opacity means pneumonia caused by any previously known pathogen. |
 
 ## Results
-
+#### Data augmentation
 In this figure, the images are generated from the original training images using image augmentation techniques. Image augmentation is a technique of altering the existing data to create some more data for the model training process and prevent the overfitting problem. 
 ![alt text](figs/augment.png)
 
+#### Evaluation
 On 400 random test images (100 positive for COVID-19), accuracy of the trained was 95% (AUC, 0.92).
 ![alt text](figs/cm.png)
 
+#### Visualization
+....
 ## Reference
 Coursera, [DeepCOVID](https://github.com/shervinmin/DeepCovid), Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
 Learning
