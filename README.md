@@ -33,6 +33,7 @@ On 400 random test images (100 positive for COVID-19), the overall accuracy of t
 ![alt text](figs/cm.png)
 
 #### Visualization
+The areas marked with a peak in heatmap indicate the prediction of abnormalities with high probabilities.
 ![alt text](figs/weight.png)
 
 ## Reference
