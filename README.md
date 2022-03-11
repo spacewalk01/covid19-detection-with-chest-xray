@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 
 ## Results
 #### Data augmentation
-Training images are augmented as follows. Image augmentation is a technique of altering the existing data to create some more data for the model training process and prevent the overfitting problem. 
+The following images are generated from the training data using image augmentation. Image augmentation is a technique of altering the existing data to create some more data for the model training process and prevent the overfitting problem. 
 ![alt text](figs/augment.png)
 
 #### Evaluation
