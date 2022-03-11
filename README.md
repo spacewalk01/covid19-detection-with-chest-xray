@@ -7,14 +7,13 @@ In this repo, I tried to apply deep learning to medical image processing and bui
 
 ## Installation
 ```bash
-$ git clone https://github.com/spacewalk01/detecting-covid19-with-chest-XRay
-$ cd detecting-covid19-with-chest-XRay
+# clone this repo
 $ pip install -r requirements.txt
 ```
 
 ## Dataset
 
-COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). The dataset contains 3616 COVID-19 positive cases along with 10,192 Normal, 6012 Lung Opacity (Non-COVID lung infection) and 1345 Viral Pneumonia images. The dataset was randomly split into valid(400), test(400) and training(remaining) sets without overlap.
+[COVID-19](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) radiography dataset from Kaggle was used for the expirement. This dataset contains 3616 COVID-19 positive cases along with 10,192 Normal, 6012 Lung Opacity (Non-COVID lung infection) and 1345 Viral Pneumonia images. The dataset was randomly split into valid(400), test(400) and training(remaining) sets without overlap.
 
 | Class | Meaning |
 | :---: | :---: | 
@@ -25,7 +24,7 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 
 ## Results
 #### Data augmentation
-In this figure, the images are generated from the original training images using image augmentation techniques. Image augmentation is a technique of altering the existing data to create some more data for the model training process and prevent the overfitting problem. 
+Training images are augmented as follows. Image augmentation is a technique of altering the existing data to create some more data for the model training process and prevent the overfitting problem. 
 ![alt text](figs/augment.png)
 
 #### Evaluation
