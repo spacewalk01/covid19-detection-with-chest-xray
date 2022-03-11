@@ -18,10 +18,10 @@ COVID-19 radiography dataset can be downloaded from [Kaggle](https://www.kaggle.
 
 | Class | Meaning |
 | :---: | :---: | 
-| COVID-19 |  Confirmed positive cases of COVID-19 patients |
-| Normal | Healthy people who have no lung infection or disease |
-| Viral Pneumonia | [Pneumonia](https://patient.uwhealth.org/healthfacts/5604) is a serious infection in the lungs. It can result from viruses, bacteria, or fungi. Most often, it occurs as a result of a viral illness, such as influenza (flu), measles, or respiratory syncytial virus. |
-| Lung Opacity | Lung opacity means pneumonia caused by any previously known pathogen. |
+| `COVID-19` |  Confirmed positive cases of COVID-19 patients |
+| `Normal` | Healthy people who have no lung infection or disease |
+| `Viral Pneumonia` | [Pneumonia](https://patient.uwhealth.org/healthfacts/5604) is a serious infection in the lungs. It can result from viruses, bacteria, or fungi. Most often, it occurs as a result of a viral illness, such as influenza (flu), measles, or respiratory syncytial virus. |
+| `Lung Opacity` | Lung opacity means pneumonia caused by any previously known pathogen. |
 
 ## Results
 #### Data augmentation
